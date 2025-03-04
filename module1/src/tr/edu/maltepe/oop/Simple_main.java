@@ -1,4 +1,3 @@
-package tr.edu.maltepe.oop;
 class Cat {
     // Method definition
     void meow() {
